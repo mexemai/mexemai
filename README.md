@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.cdnlogo.com/logos/m/60/maxima.svg" width="200" alt="Mexemai Logo" />
+  <img src="https://mexemai.com/bucket/company/image/logo.png" width="200" alt="Mexemai Logo" />
 </p>
 
 
