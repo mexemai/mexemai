@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://www.cdnlogo.com/logos/m/60/maxima.svg" width="200" alt="Mexemai Logo" />
+</p>
+
+
+
 👋 Welcome to Mexemai!
 
 We are @mexemai — a future-ready technology company building smart solutions at the intersection of AI base SaaS, SAP, Mobile, and Embedded Innovation.
